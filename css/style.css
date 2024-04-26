@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    background-color: blue;
+    color: gold;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
